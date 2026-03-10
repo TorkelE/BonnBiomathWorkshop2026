@@ -13,5 +13,5 @@ This is a workshop on how to use the Julia programming language generally to cre
 - Still in Pkg mode, run `instantiate`. This will download all Julia packages that are used in this workshop.
 
 #### To run the workshop
-The workshop consists of a set of notebook. To run the workshop, go through each notbook in order. When starting a notebook for the first time, you have to desigante a kernel. Here select the "Julia release channel kernel".
+The workshop consists of a set of notebook. To run the workshop, go through each notbook in order. When starting a notebook for the first time, you have to designate a kernel. Here select the "Julia release channel kernel".
 
