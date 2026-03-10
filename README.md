@@ -1,4 +1,5 @@
-# Bonn Conference on Mathematical Life Sciences 2026- Catalyst and Julia Workshop
+# Bonn Conference on Mathematical Life Sciences 2026- Catalyst and Julia W
+This is a workshop on how to use the Julia programming language generally to create, simulate, and analyse models in mathematical systems biology. The primary package considered is Catalyst.jl, although other packages (either how they combine with Catalyst, or when run separately) are also considered. More information of the workshop can be found here: https://www.bcml.uni-bonn.de/events/2nd-bonn-conference-on-mathematical-life-sciences/catalyst-workshop
 
 ## Preparations and Setup
 
@@ -12,7 +13,5 @@
 - Still in Pkg mode, run `instantiate`. This will download all Julia packages that are used in this workshop.
 
 #### To run the workshop
+The workshop consists of a set of notebook. To run the workshop, go through each notbook in order. When starting a notebook for the first time, you have to desigante a kernel. Here select the "Julia release channel kernel".
 
-
-
-## Workshop Details
